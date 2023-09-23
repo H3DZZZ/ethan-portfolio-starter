@@ -3,7 +3,7 @@ import Bulb from "../../components/Bulb";
 import Circles from "../../components/Circles";
 
 import { motion } from "framer-motion";
-import { FadeIn, fadeIn } from "../../variants";
+import { fadeIn } from "../../variants";
 
 const Services = () => {
   return (
